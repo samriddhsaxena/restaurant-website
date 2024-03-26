@@ -1,0 +1,1 @@
+This repository contains a restaurant homepage called 'Burger Bash' made using HTML and CSS.
